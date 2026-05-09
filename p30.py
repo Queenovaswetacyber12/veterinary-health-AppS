@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(layout="centered")
 
-st.title("vetenary Decision support App")
+st.title("veterinary Decision support App")
 st.write("Enter Milk production based hard health analysis")
 
 st.sidebar.title("farm settings")
