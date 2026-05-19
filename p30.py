@@ -246,7 +246,7 @@ if st.button("Analysis with AI"):
 
                 data=json.dumps({
 
-                    "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+                    "model": "google/gemma-3-27-it:free",
 
                     "messages": [
                         {
@@ -319,7 +319,7 @@ if st.button("Analysis with AI"):
 
                 data=json.dumps({
 
-                    "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+                    "model": "google/gemma-3-27-it:free",
 
                     "messages": messages,
 
